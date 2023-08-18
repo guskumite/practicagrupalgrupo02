@@ -1,17 +1,20 @@
 import "./App.css";
 import Joe from "./components/Joe.jsx";
-import gustavo from "./components/Gustavo.jsx";
+import Gustavo from "./components/gustavo";
+import Jarwend from "./components/jarwend";
+import JuanCruz from "./components/juancruz";
+import JuniorLopez from "./components/juniorlopez";
 
 function App() {
   const x = 0;
   return (
-    <main>
+    <main className="custom_main">
       <p>{x}</p>
       <Gustavo />
-      <jarwend />
+      <Jarwend />
       <Joe />
-      <juancruz />
-      <juniorlopez />
+      <JuanCruz />
+      <JuniorLopez />
     </main>
   );
 }

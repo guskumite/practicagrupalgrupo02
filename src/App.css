@@ -40,3 +40,10 @@
 .read-the-docs {
   color: #888;
 }
+
+
+.custom_main{
+  max-width: 500px;
+  display: grid;
+overflow: hidden;
+}

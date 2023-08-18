@@ -1,6 +1,6 @@
 import React from "react";
 
-const juancruz = () => {
+const JuanCruz = () => {
   return (
     <section>
       <div>
@@ -11,4 +11,4 @@ const juancruz = () => {
   );
 };
 
-export default juancruz;
+export default JuanCruz;
