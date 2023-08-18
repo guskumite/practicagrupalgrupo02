@@ -1,7 +1,12 @@
 import React from "react";
 
-const juniorlopez = () => {
-  return <div>junior</div>;
+const Juniorlopez = () => {
+  return (
+    <div>
+      {" "}
+      <p>junior</p>
+    </div>
+  );
 };
 
-export default juniorlopez;
+export default Juniorlopez;

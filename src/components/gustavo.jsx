@@ -1,7 +1,11 @@
 import React from "react";
 
 const Gustavo = () => {
-  return <p>gustavo</p>;
+  return (
+    <div>
+      <p>gustavo</p>
+    </div>
+  );
 };
 
 export default Gustavo;

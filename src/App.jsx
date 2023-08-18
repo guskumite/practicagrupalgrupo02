@@ -1,6 +1,9 @@
 import "./App.css";
 import Joe from "./components/Joe.jsx";
-import gustavo from "./components/Gustavo.jsx";
+import Gustavo from "./components/Gustavo.jsx";
+import Jarwend from "./components/jarwend.jsx";
+import Juancruz from "./components/juancruz.jsx";
+import Juniorlopez from "./components/juniorlopez.jsx";
 
 function App() {
   const x = 0;
@@ -8,10 +11,10 @@ function App() {
     <main>
       <p>{x}</p>
       <Gustavo />
-      <jarwend />
+      <Jarwend />
       <Joe />
-      <juancruz />
-      <juniorlopez />
+      <Juancruz />
+      <Juniorlopez />
     </main>
   );
 }
