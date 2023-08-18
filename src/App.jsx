@@ -8,7 +8,7 @@ import JuniorLopez from "./components/juniorlopez";
 function App() {
   const x = 0;
   return (
-    <main className="custom_main">
+    <main >
       <p>{x}</p>
       <Gustavo />
       <Jarwend />
