@@ -1,7 +1,11 @@
 import React from "react";
 
-const gustavo = () => {
-  return <div>gustavo</div>;
+const Gustavo = () => {
+  return (
+    <div>
+      <p>gustavo</p>
+    </div>
+  );
 };
 
-export default gustavo;
+export default Gustavo;
