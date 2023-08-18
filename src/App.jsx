@@ -1,3 +1,25 @@
+juniorLopez
+
+import './App.css'
+import JuniorLopez from './components/juniorlopez'
+
+
+function App() {
+  
+
+  return (
+    <>
+      <section>
+
+
+      <JuniorLopez/>
+
+
+      </section>
+
+    </>
+  )
+
 import "./App.css";
 import Joe from "./components/Joe.jsx";
 import Gustavo from "./components/Gustavo.jsx";
@@ -17,6 +39,7 @@ function App() {
       <Juniorlopez />
     </main>
   );
+ main
 }
 
 export default App;
