@@ -1,5 +1,6 @@
 import "./App.css";
 import Joe from "./components/Joe.jsx";
+
 import Gustavo from "./components/gustavo";
 import Jarwend from "./components/jarwend";
 import JuanCruz from "./components/juancruz";
@@ -13,8 +14,10 @@ function App() {
       <Gustavo />
       <Jarwend />
       <Joe />
+
       <JuanCruz />
       <JuniorLopez />
+
     </main>
   );
 }
