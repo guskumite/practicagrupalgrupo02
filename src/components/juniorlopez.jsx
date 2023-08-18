@@ -1,7 +1,7 @@
 import React from "react";
 
-const juniorlopez = () => {
+const Juniorlopez = () => {
   return <div>junior</div>;
 };
 
-export default juniorlopez;
+export default Juniorlopez;
