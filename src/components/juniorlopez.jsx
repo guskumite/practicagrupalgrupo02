@@ -1,6 +1,8 @@
 import React from "react";
 
-const Juniorlopez = () => {
+
+const JuniorLopez = () => {
+
   return (
     <div>
       {" "}
@@ -9,4 +11,4 @@ const Juniorlopez = () => {
   );
 };
 
-export default Juniorlopez;
+export default JuniorLopez;
